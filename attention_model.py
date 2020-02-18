@@ -234,6 +234,7 @@ class Transformer(tf.keras.Model):
 
 
 def main():
+    # test
     # sample_encoder = Decoder(2, 512, 8, 2048, 8500, 6000)
     #
     # temp_input = tf.random.uniform((64, 62), dtype=tf.int64, minval=0, maxval=200)
